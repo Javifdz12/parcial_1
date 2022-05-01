@@ -1,5 +1,6 @@
 # parcial_1
-link: https://github.com/Javifdz12/parcial_1.git
+link: https://github.com/Javifdz12/parcial_1.git 
+
 Ejercicio 1 (2 Punto)
 Escriba una clase que permita describir un libro y situar los valores asociados. Dar un ejemplo de uso en Python.
 
