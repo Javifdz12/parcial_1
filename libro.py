@@ -103,7 +103,7 @@ class libro:
         else:
             self.editorial="editorial"
     def descripcion(self):
-        print(f"el libro titulado {self.titulo},de la editorial {self.editorial} ,esta escrito por {self.autor}, pertenece a {self.genero} y tiene {self.num_paginas} paginas")
+        print(f"el libro titulado {self.titulo},es de la editorial {self.editorial} ,esta escrito por {self.autor}, pertenece a {self.genero} y tiene {self.num_paginas} paginas")
 
 
 
